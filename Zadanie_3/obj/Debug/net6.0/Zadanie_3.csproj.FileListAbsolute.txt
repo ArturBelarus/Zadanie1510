@@ -1,0 +1,15 @@
+C:\Users\hp050\Desktop\IT\DZ1510\Zadanie_3\bin\Debug\net6.0\Zadanie_3.exe
+C:\Users\hp050\Desktop\IT\DZ1510\Zadanie_3\bin\Debug\net6.0\Zadanie_3.deps.json
+C:\Users\hp050\Desktop\IT\DZ1510\Zadanie_3\bin\Debug\net6.0\Zadanie_3.runtimeconfig.json
+C:\Users\hp050\Desktop\IT\DZ1510\Zadanie_3\bin\Debug\net6.0\Zadanie_3.dll
+C:\Users\hp050\Desktop\IT\DZ1510\Zadanie_3\bin\Debug\net6.0\Zadanie_3.pdb
+C:\Users\hp050\Desktop\IT\DZ1510\Zadanie_3\obj\Debug\net6.0\Zadanie_3.csproj.AssemblyReference.cache
+C:\Users\hp050\Desktop\IT\DZ1510\Zadanie_3\obj\Debug\net6.0\Zadanie_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp050\Desktop\IT\DZ1510\Zadanie_3\obj\Debug\net6.0\Zadanie_3.AssemblyInfoInputs.cache
+C:\Users\hp050\Desktop\IT\DZ1510\Zadanie_3\obj\Debug\net6.0\Zadanie_3.AssemblyInfo.cs
+C:\Users\hp050\Desktop\IT\DZ1510\Zadanie_3\obj\Debug\net6.0\Zadanie_3.csproj.CoreCompileInputs.cache
+C:\Users\hp050\Desktop\IT\DZ1510\Zadanie_3\obj\Debug\net6.0\Zadanie_3.dll
+C:\Users\hp050\Desktop\IT\DZ1510\Zadanie_3\obj\Debug\net6.0\refint\Zadanie_3.dll
+C:\Users\hp050\Desktop\IT\DZ1510\Zadanie_3\obj\Debug\net6.0\Zadanie_3.pdb
+C:\Users\hp050\Desktop\IT\DZ1510\Zadanie_3\obj\Debug\net6.0\Zadanie_3.genruntimeconfig.cache
+C:\Users\hp050\Desktop\IT\DZ1510\Zadanie_3\obj\Debug\net6.0\ref\Zadanie_3.dll
