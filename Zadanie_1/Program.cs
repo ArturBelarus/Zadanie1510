@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HelloApp
+namespace Zad2
 {
     class Program
     {
